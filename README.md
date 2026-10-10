@@ -1,1 +1,1 @@
-# dsci-100
+toy_ds_project
